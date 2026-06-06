@@ -18,12 +18,11 @@ Sou uma pessoa apaixonada por cachorros, tecnologia e música!
 ### Linguagens
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 #### Frameworks
-Spring Boot
-Spring Security
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-green)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-orange)
 
 ### Banco de Dados
   
