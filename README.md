@@ -4,18 +4,22 @@
 
 Sou um desenvolvedor backend com foco em Java e Spring Boot. Atualmente estou aprofundando meus conhecimentos em desenvolvimento de APIs REST, autenticação com JWT para segurança, bancos de dados relacionais, Docker e boas práticas de engenharia de software.
 
-Curioso por tecnologia desde cedo, comecei a aprender sobre programação "fuçando" Python por conta própria e descobri que gostava muito mais de entender como as aplicações funcionam por trás dos bastidores do que apenas utilizá-las.
+Eu moro em Sorocaba/SP e sou curioso por tecnologia desde cedo, comecei a aprender sobre programação "fuçando" Python por conta própria e descobri que gostava muito mais de entender como as aplicações funcionam por trás dos bastidores do que apenas utilizá-las.
 
 Além dos estudos e projetos pessoais, também já tive experiências profissionais em diferentes locais e também realizei estágio na área, experiências que contribuíram para o desenvolvimento de habilidades como responsabilidade, organização e resolução de problemas.
 
-### Mais sobre mim:
-Sou uma pessoa apaixonada por cachorros, tecnologia e música!
+### Curiosidade sobre mim:
+Além de programar, também sou apaixonado por cachorros, tecnologia e música!
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/8Su2k0Dq0aQAAAAd/dog-computer-votin.gif" width="200">
+</p>
 
 ---
 
 ### 🚀 Ferramentas e Tecnologias:
 
-### Linguagens
+#### Linguagens
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
@@ -24,12 +28,12 @@ Sou uma pessoa apaixonada por cachorros, tecnologia e música!
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-orange)
 
-### Banco de Dados
+#### Banco de Dados
   
 ![MySQL](https://img.shields.io/badge/MySQL-8-blue)
 ![Flyway](https://img.shields.io/badge/Flyway-Database_Migrations-red)
 
-### Outras Ferramentas
+#### Outras Ferramentas
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-Gray)
@@ -73,9 +77,7 @@ Funcionalidades:
 - Migrations com Flyway
 - Containerização com Docker
 
-🔗 Repositório:
-
-https://github.com/viniciusvieira12/task-management-api
+[🔗 Acessar repositório do projeto](https://github.com/viniciusvieira12/task-management-api)
 
 ---
 
